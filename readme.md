@@ -19,7 +19,7 @@ Built with a modular structure using controllers, routes, and a MySQL connection
 
 ## Tech Stack
 
-Runtime - Node.js
-Framework -	Express.js
-Database -	MySQL (mysql2)
-Environment -	dotenv
+- Runtime - Node.js
+- Framework -	Express.js
+- Database -	MySQL (mysql2)
+- Environment -	dotenv
